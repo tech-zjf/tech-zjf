@@ -1,43 +1,43 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:00C9A7&height=210&section=header&text=tech-zjf&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20AI%20Products%20%7C%20Frontend%20Engineering&descAlignY=58&descSize=18" alt="tech-zjf banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:00C9A7&height=210&section=header&text=tech-zjf&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20TypeScript%20%7C%20React%20%7C%20Node.js&descAlignY=58&descSize=18" alt="tech-zjf banner" />
 </p>
 
 <h1 align="center">Hi, I'm tech-zjf</h1>
 
 <p align="center">
-  <b>Full-stack Developer</b> focused on AI products, web applications, component systems, and developer tools.
+  <b>Full-stack Developer</b>
   <br />
-  我关注从产品原型、前端体验、后端接口到工程化交付的完整链路。
-</p>
-
-<p align="center">
-  <a href="https://github.com/tech-zjf?tab=followers">
-    <img src="https://img.shields.io/github/followers/tech-zjf?style=for-the-badge&logo=github&label=Followers&color=2F80ED" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/tech-zjf?tab=repositories">
-    <img src="https://img.shields.io/badge/Open%20Source-10%2B%20repos-00C9A7?style=for-the-badge&logo=github" alt="Open source repositories" />
-  </a>
-  <a href="https://github.com/tech-zjf">
-    <img src="https://komarev.com/ghpvc/?username=tech-zjf&style=for-the-badge&color=0e75b6" alt="Profile views" />
-  </a>
+  关注前端体验、后端接口、工程化交付和 AI 应用落地。
 </p>
 
 <table>
   <tr>
     <td width="58%" valign="top">
       <h2>About Me</h2>
-      <ul>
-        <li>Building web products with TypeScript, React, Next.js, Vue, and Node.js.</li>
-        <li>Interested in AI workflow automation, admin systems, component libraries, and reusable developer tools.</li>
-        <li>I like turning repeated product and engineering patterns into small, typed, maintainable tools.</li>
-        <li>Currently exploring AI trend tracking, full-stack templates, keyboard interaction, gestures, and UI infrastructure.</li>
-      </ul>
+      <p>
+        我是一名全栈开发者，主要使用 TypeScript 技术栈构建 Web 应用、后台系统、组件能力和自动化工具。
+        我更关注把需求拆清楚、把交互做顺、把接口和数据链路设计稳定，再用工程化方式持续交付。
+      </p>
+      <p>
+        I enjoy building practical products with clean UI, typed APIs, maintainable architecture, and smooth developer experience.
+      </p>
     </td>
     <td width="42%" valign="top">
       <img src="src/images/code.gif" width="100%" alt="Coding animation" />
     </td>
   </tr>
 </table>
+
+## What I Can Do
+
+| Area | Skills |
+| --- | --- |
+| Frontend | React, Next.js, Vue, component design, responsive UI, state management, data fetching |
+| Backend | Node.js, API design, authentication flow, data modeling, service integration |
+| Full-stack | Product prototyping, admin systems, dashboard interfaces, frontend-backend collaboration |
+| Engineering | TypeScript, monorepo workflow, package management, build tooling, linting, maintainable code structure |
+| AI Apps | LLM API integration, prompt workflow design, information extraction, automation, AI-assisted product features |
+| Desktop & Tools | Electron, browser-side interaction, keyboard shortcuts, small productivity tools |
 
 ## Tech Stack
 
@@ -46,69 +46,30 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js%20%7C%20Vue-2F80ED?style=flat-square" alt="Frontend" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20API%20Design-00A67E?style=flat-square" alt="Backend" />
-  <img src="https://img.shields.io/badge/Product-AI%20%7C%20SaaS%20%7C%20Admin-7C3AED?style=flat-square" alt="Product" />
-  <img src="https://img.shields.io/badge/Engineering-TypeScript%20%7C%20DX%20%7C%20Monorepo-F97316?style=flat-square" alt="Engineering" />
+  <img src="https://img.shields.io/badge/Focus-Full--stack%20Product%20Delivery-F97316?style=flat-square" alt="Full-stack product delivery" />
+  <img src="https://img.shields.io/badge/AI-Workflow%20%7C%20Automation-7C3AED?style=flat-square" alt="AI workflow" />
 </p>
 
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/tech-zjf/AIPulse">AIPulse</a></h3>
-      <p>自动追踪模型发布、论文、开源项目和社区热点，把快速变化的 AI 技术趋势转化为可读、可传播、可检索的情报卡片。</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/tech-zjf/next-admin-starter">next-admin-starter</a></h3>
-      <p>A practical Next.js admin starter for building internal tools, dashboards, and full-stack web apps faster.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/tech-zjf/kbd-shortcuts">kbd-shortcuts</a></h3>
-      <p>A tiny, type-safe, cross-platform keyboard shortcuts library with automatic Ctrl to Command mapping on macOS.</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github.com/tech-zjf/apex-design">apex-design</a></h3>
-      <p>React component experiments focused on reusable UI foundations and product interface building blocks.</p>
-    </td>
-  </tr>
-</table>
-
-## More Work
-
-| Project | Focus |
-| --- | --- |
-| [at-input](https://github.com/tech-zjf/at-input) | @ mention input component |
-| [gesture-js](https://github.com/tech-zjf/gesture-js) | Gesture movement monitoring |
-| [react-template](https://github.com/tech-zjf/react-template) | React project template |
-| [zjf-monorepos](https://github.com/tech-zjf/zjf-monorepos) | TypeScript monorepo experiments |
-| [learning-electron](https://github.com/tech-zjf/learning-electron) | Electron learning notes and practice |
-| [learn-vue3-source-code](https://github.com/tech-zjf/learn-vue3-source-code) | Vue 3 source code learning |
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tech-zjf&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-zjf&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tech-zjf&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
-## What I Care About
+## Working Style
 
 ```text
-Product sense       Build things that solve real problems
-Frontend quality    Fast, clean, accessible, maintainable interfaces
-Full-stack flow     APIs, data, auth, deployment, and operational details
-Developer tooling   Typed APIs, reusable components, automation, and DX
-AI applications     Turn fast-moving AI signals into usable products
+Understand first      Clarify the real product problem before writing code
+Type everything       Prefer predictable contracts and maintainable interfaces
+Ship pragmatically    Keep implementation focused, usable, and easy to evolve
+Think full-stack      UI, API, data, auth, deployment, and operations all matter
+Automate repeats      Turn repeated work into tools, templates, or workflows
 ```
 
+## Current Focus
+
+- Building cleaner full-stack web applications with TypeScript.
+- Improving admin/dashboard product experience and reusable UI patterns.
+- Exploring AI-assisted workflows for content processing, search, analysis, and automation.
+- Keeping codebases small, typed, understandable, and easy to maintain.
+
 <p align="center">
-  <a href="https://github.com/tech-zjf?tab=repositories">Explore my repositories</a>
+  <b>Code with context. Build for real use.</b>
 </p>
